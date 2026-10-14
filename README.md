@@ -1,78 +1,66 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
 
-<p>Welcome to my page! </br> I'm Ahmed Khalid Samir, Network Engineer & IT Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Mansoura, Egypt</b>. </p>
+  <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=80" alt="Enterprise Network Infrastructure Header" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
-<h3>Things I work with</h3>
-<p>
-  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img alt="CCNA" src="https://img.shields.io/badge/-CCNA/CCNP-049fd9?style=flat-square&logo=cisco&logoColor=white" />
-  <img alt="Routing & Switching" src="https://img.shields.io/badge/-Routing_%26_Switching-2E8B57?style=flat-square&logo=letsencrypt&logoColor=white" />
-  <img alt="TCP/IP" src="https://img.shields.io/badge/-TCP/IP-FF4500?style=flat-square&logo=internet&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-165181?style=flat-square&logo=wireshark&logoColor=white" />
-  <img alt="Palo Alto" src="https://img.shields.io/badge/-Palo_Alto_Networks-FA5828?style=flat-square&logo=paloaltonetworks&logoColor=white" />
-  <img alt="Fortinet" src="https://img.shields.io/badge/-Fortinet-CC1C24?style=flat-square&logo=fortinet&logoColor=white" />
-  <img alt="AWS Networking" src="https://img.shields.io/badge/-AWS_Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <h1>⚡ AHMED KHALID SAMIR ⚡</h1>
+  <h3><b>NETWORK ENGINEER // ENTERPRISE INFRASTRUCTURE & SECURITY</b></h3>
+  <p><b>Designing, Configuring & Troubleshooting Reliable Network Infrastructure</b></p>
+
+  <p align="center">
+    <a href="mailto:ahmedkhalid301967@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedkhalid301967%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="tel:01026764586"><img src="https://img.shields.io/badge/Phone-01026764586-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Status-Available_for_Enterprise_Roles-00C853?style=for-the-badge" /></a>
+  </p>
+
+</div>
+
+---
+
+## 📌 `whoami` // Background & Focus
+
+I am a dedicated **Network Engineer** specialized in enterprise network architecture design, enterprise routing & switching, network optimization, and zero-trust infrastructure security. My engineering mindset is built on first-principles protocol understanding and hands-on lab validation.
+
+I design and manage reliable campus, enterprise WAN, and datacenter networks. My background encompasses configuring high-availability Cisco hardware, optimizing dynamic routing protocols (OSPF, BGP), isolating Layer 2 and Layer 3 bottlenecks, and enforcing infrastructure security through ACLs, NAT, and Firewalls.
+
+* **Architecture:** Hierarchical & Modular Enterprise Design
+* **Troubleshooting:** Deep Packet Analysis using Wireshark & Cisco Packet Tracer
+* **Security:** Hardening, ACLs, NAT/PAT, and Zero-Trust Edge Policies
+
+---
+
+## 🛠️ Technical Competencies & Protocol Matrix
+
+<div align="center">
+
+| Domain | Core Technologies & Protocols |
+| :--- | :--- |
+| **Network Fundamentals** | OSI 7-Layer Model, TCP/IP Suite, LAN/WAN, Leased Lines, DSL, Network Architecture |
+| **IP Addressing** | IPv4, IPv6, Subnetting (FLSM / VLSM), CIDR, MAC Addressing |
+| **Cisco IOS & Admin** | CLI Navigation, Password Recovery, Software Upgrade, IOS Backup/Restore, Admin Commands |
+| **Switching (L2/L3)** | VLANs, 802.1Q Trunking, Inter-VLAN Routing, Router-on-a-Stick, STP / RSTP, EtherChannel (LACP), CDP / LLDP |
+| **Routing Protocols** | IPv4/IPv6 Static Routing, OSPF (Single-Area / Multi-Area), Basic BGP, HSRP / VRRP First Hop Redundancy |
+| **Enterprise & WAN** | Enterprise Architecture, WLAN Wireless, SD-WAN Concepts, QoS, Network Virtualization |
+| **Network Services** | DHCP Server & Relay (IP Helper), Static/Dynamic NAT, PAT (Port Address Translation), DNS, NTP |
+| **Security & Hardening** | Standard & Extended ACLs, Named ACLs, Port Security, Network Hardening & Firewalls |
+| **Automation & Tools** | Python Scripts, REST APIs, JSON / YAML Data Formats, Device Automation |
+| **Troubleshooting & Ops** | Wireshark Packet Analysis, Cisco Packet Tracer, GNS3, Protocol Analyzers |
+
+</div>
+
+### 🌐 Technology Stack Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Routing_%26_Switching-2E8B57?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-165181?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GNS3-2E2E2E?style=for-the-badge&logo=gns3&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr style="border: none;">
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/AhmedKhaledSamir/network-automation-scripts"><b>Python Network Automation Toolkit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AhmedKhaledSamir/network-automation-scripts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AhmedKhaledSamir/network-automation-scripts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AhmedKhaledSamir/network-automation-scripts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AhmedKhaledSamir/network-automation-scripts?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AhmedKhaledSamir/cisco-lab-topologies"><b>Cisco GNS3 & EVE-NG Lab Topologies</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AhmedKhaledSamir/cisco-lab-topologies?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AhmedKhaledSamir/cisco-lab-topologies?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AhmedKhaledSamir/cisco-lab-topologies?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AhmedKhaledSamir/cisco-lab-topologies?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AhmedKhaledSamir/network-monitoring-dashboard"><b>Network Monitoring & SNMP Dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AhmedKhaledSamir/network-monitoring-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AhmedKhaledSamir/network-monitoring-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AhmedKhaledSamir/network-monitoring-dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AhmedKhaledSamir/network-monitoring-dashboard?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<h3>My latest posts</h3>
-<ul>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Automating Network Configurations with Python and Netmiko</b><br/><i>How to push configurations to multiple routers and switches in seconds.</i></li>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Understanding BGP Routing Policies and Path Selection Best Practices</b><br/><i>A deep dive into BGP attributes and traffic engineering.</i></li>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Comprehensive Guide to Troubleshooting OSPF Adjacency Issues</b><br/><i>Step-by-step methodology to fix common routing protocol problems.</i></li>
-  <li><b>Securing Enterprise Networks with Next-Gen Firewalls & VPNs</b><br/><i>Best practices for implementing zero-trust network access.</i></li>
-  <li><b>Essential Wireshark Troubleshooting Tips for Network Engineers</b><br/><i>Analyzing packet captures to diagnose latency and packet loss.</i></li>
-  <li><b>IPv6 Transition Strategies for Modern Datacenters</b><br/><i>Moving smoothly from IPv4 to dual-stack architecture.</i></li>
-</ul>
+## 📐 Enterprise Network Topology & Flow
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/AhmedKhaledSamir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/AhmedKhaledSamir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:ahmed@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<hr>
-<p align="center">This <i>README</i> file is customized for a <b>Network Engineer & IT Specialist</b>.</p>
+<div align="center">
