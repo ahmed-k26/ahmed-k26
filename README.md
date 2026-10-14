@@ -88,27 +88,93 @@ I design and manage reliable campus, enterprise WAN, and datacenter networks. My
 
 <div id="topology"></div>
 
-## 📐 Enterprise Network Topology Flow
+## 📐 Enterprise Network Architecture & Topology
 
 <div align="center">
+  <p><i>High-level structural breakdown showing WAN connectivity, Perimeter Security, Core Routing, and Access/Services VLAN segmentation.</i></p>
+  
+  <Image src="image_generation_content/12572670216192745353" alt="Enterprise Network Architecture Diagram" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.6);" />
+</div>
 
-```text
-  +-----------------------------------------------------------------------+
-  |                          WAN / Internet (eBGP)                        |
-  +-----------------------------------------------------------------------+
-                                      |
-                           [ Edge Router / NAT / PAT ]
-                                      |
-                     +---------------------------------+
-                     |   Core Layer (HSRP / OSPF)      |
-                     |   [L3 Switch 1] <---> [L3 Switch 2]|
-                     +---------------------------------+
-                                      |
-            +-------------------------+-------------------------+
-            | (802.1Q Trunk / LACP)                             | (802.1Q Trunk / LACP)
-  +-------------------+                               +-------------------+
-  | Access Switch A   |                               | Access Switch B   |
-  +-------------------+                               +-------------------+
-    |               |                                   |               |
-[VLAN 10]       [VLAN 20]                           [VLAN 30]       [VLAN 99]
- (Admin)         (Staff)                             (Servers)       (MGMT)
+---
+
+<div id="labs"></div>
+
+## 🧪 Practical Hands-on Labs (`.PKT` Repositories)
+
+Comprehensive lab topology builds complete with downloadable Packet Tracer files (`.pkt`), command scripts, and verification steps.
+
+| Lab Title | Level | Core Technologies & Protocols | Hardware Stack | Download |
+| :--- | :---: | :--- | :--- | :---: |
+| **VLAN & Inter-VLAN Routing Architecture** | `Intermediate` | VLANs 10, 20, 99, 802.1Q Trunking, Router-on-a-Stick | Catalyst 2960, ISR 4331 | [`.PKT File`](#) |
+| **Single-Area OSPF Dynamic Routing** | `Intermediate` | OSPFv2 Area 0, Neighbor Adjacencies, Hello Timers | 3x Cisco ISR 4321 | [`.PKT File`](#) |
+| **Enterprise NAT & PAT Implementation** | `Advanced` | Static NAT, Dynamic NAT, PAT (Overload), ACLs | Cisco ISR 4451, Edge Switch | [`.PKT File`](#) |
+| **Extended ACL Network Hardening** | `Advanced` | Standard & Extended ACLs, Protocol Filtering | Catalyst 3650, ISR 4331 | [`.PKT File`](#) |
+| **DHCP Server & Helper Address Relay** | `Basic` | DHCP Pools, IP Helper-Address, Option 66/150 | Cisco Router, Win Server | [`.PKT File`](#) |
+| **L2 Redundancy: EtherChannel & RSTP** | `Intermediate` | LACP Link Aggregation, RSTP Root Bridge Election | 3x Catalyst 2960 Switches | [`.PKT File`](#) |
+| **Enterprise Campus: HSRP Redundancy** | `Advanced` | HSRPv2, Inter-VLAN Routing, OSPF Area 0, Tracking | 2x Catalyst 3650 L3, ISR 4331 | [`.PKT File`](#) |
+
+---
+
+<div id="certifications"></div>
+
+## 📜 Professional Certifications & Academic Credentials
+
+<details>
+<summary><b>🏅 View CCNA & Associate Certifications (4 Credentials)</b></summary>
+
+* **CCNA 200-301** | *CLS-Learning Solutions* (Date: 10-08-2026) — [Verify Certificate](#)
+* **CCNA: Introduction to Networks (ITN)** | *Cisco Networking Academy* (Date: 23-09-2026) — [Verify Certificate](#)
+* **CCNA: Switching, Routing, and Wireless Essentials (SRWE)** | *Cisco Networking Academy* (Date: 06-10-2026) — [Verify Certificate](#)
+* **CCNA: Enterprise Networking, Security, and Automation (ENSA)** | *Cisco Networking Academy* — [Verify Certificate](#)
+</details>
+
+<details>
+<summary><b>🎓 View Academic Foundation (Mansoura University)</b></summary>
+
+* **Bachelor's Degree in Computer & Information Technology** | *Mansoura University*
+  * *Strong academic foundation covering operating systems, data structures, algorithms, and enterprise networking fundamentals.*
+</details>
+
+---
+
+<div id="tools"></div>
+
+## 🧰 Network Engineering Utilities & Cheat Sheet
+
+<details>
+<summary><b>🔢 Quick IPv4 Subnetting Reference Guide</b></summary>
+
+| Prefix | Subnet Mask | Usable Hosts | Common Use Case |
+| :---: | :---: | :---: | :--- |
+| **/30** | `255.255.255.252` | 2 | Point-to-Point WAN Links |
+| **/28** | `255.255.255.240` | 14 | Small Subnets / DMZ Segments |
+| **/24** | `255.255.255.0` | 254 | Standard Enterprise LAN Segment |
+| **/16** | `255.255.0.0` | 65,534 | Large Corporate Internal Network |
+</details>
+
+<details>
+<summary><b>⚡ Cisco IOS Essential Command Line Cheat Sheet</b></summary>
+
+```bash
+# Basic Administration & Verification
+enable
+configure terminal
+hostname R1-CORE
+show running-config
+show ip interface brief
+
+# VLANs & Trunking Configuration
+vlan 10
+ name Administration
+interface gigabitEthernet 0/1
+ switchport mode trunk
+show vlan brief
+show interfaces trunk
+
+# OSPF Routing Setup
+router ospf 1
+ router-id 1.1.1.1
+ network 192.168.1.0 0.0.0.255 area 0
+show ip ospf neighbor
+show ip route ospf
