@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> أهلاً بك في صفحتي الشخصية!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p>Welcome to my page! </br> I'm Ahmed Khalid Samir, Network Engineer & IT Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Mansoura, Egypt</b>. </p>
 
-<p>مرحباً! أنا أحمد خالد سمير، مهندس شبكات وبنية تحتية من <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>القاهرة، مصر</b>.</p>
-<h3>التقنيات وبروتوكولات الشبكات التي أعمل بها</h3>
+<h3>Things I work with</h3>
 <p>
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img alt="CCNA" src="https://img.shields.io/badge/-CCNA/CCNP-049fd9?style=flat-square&logo=cisco&logoColor=white" />
@@ -14,22 +14,22 @@
   <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-165181?style=flat-square&logo=wireshark&logoColor=white" />
   <img alt="Palo Alto" src="https://img.shields.io/badge/-Palo_Alto_Networks-FA5828?style=flat-square&logo=paloaltonetworks&logoColor=white" />
   <img alt="Fortinet" src="https://img.shields.io/badge/-Fortinet-CC1C24?style=flat-square&logo=fortinet&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS_Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS Networking" src="https://img.shields.io/badge/-AWS_Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 </p>
 
-<h3>مشاريعي المفتوحة (Open Source Projects)</h3>
+<h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr style="border: none;">
-      <td><b>🎁 المشروع</b></td>
-      <td><b>⭐ النجوم</b></td>
-      <td><b>📚 الفروع</b></td>
-      <td><b>🛎 المشاكل</b></td>
-      <td><b>📬 طلبات السحب</b></td>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -57,20 +57,17 @@
   </tbody>
 </table>
 
-<h3>أحدث مقالاتي التقنية</h3>
+<h3>My latest posts</h3>
 <ul>
-  <li><b>🔥 Automating Network Configurations with Python and Netmiko</b><br/><i>How to push configurations to multiple routers and switches in seconds.</i></li>
-  <li><b>🔥 Understanding BGP Routing Policies and Path Selection Best Practices</b><br/><i>A deep dive into BGP attributes and traffic engineering.</i></li>
-  <li><b>🔥 Comprehensive Guide to Troubleshooting OSPF Adjacency Issues</b><br/><i>Step-by-step methodology to fix common routing protocol problems.</i></li>
+  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Automating Network Configurations with Python and Netmiko</b><br/><i>How to push configurations to multiple routers and switches in seconds.</i></li>
+  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Understanding BGP Routing Policies and Path Selection Best Practices</b><br/><i>A deep dive into BGP attributes and traffic engineering.</i></li>
+  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Comprehensive Guide to Troubleshooting OSPF Adjacency Issues</b><br/><i>Step-by-step methodology to fix common routing protocol problems.</i></li>
   <li><b>Securing Enterprise Networks with Next-Gen Firewalls & VPNs</b><br/><i>Best practices for implementing zero-trust network access.</i></li>
   <li><b>Essential Wireshark Troubleshooting Tips for Network Engineers</b><br/><i>Analyzing packet captures to diagnose latency and packet loss.</i></li>
   <li><b>IPv6 Transition Strategies for Modern Datacenters</b><br/><i>Moving smoothly from IPv4 to dual-stack architecture.</i></li>
 </ul>
 
-<h3>حالة الطقس في القاهرة <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
-<p>الحالة الحالية: <b>25°C، <i>سماء صافية</i></b></p>
-
-<h3>أين تجدني</h3>
+<h3>Where to find me</h3>
 <p>
   <a href="https://github.com/AhmedKhaledSamir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/AhmedKhaledSamir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -78,4 +75,4 @@
 </p>
 
 <hr>
-<p align="center">هذا الملف يتم تحديثه تلقائياً | <b>مهندس شبكات وبنية تحتية</b></p>
+<p align="center">This <i>README</i> file is customized for a <b>Network Engineer & IT Specialist</b>.</p>
