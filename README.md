@@ -178,7 +178,7 @@ My practical work focuses on applying networking concepts to simulated topologie
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   &nbsp;
-  <a href="mailto:ahmedkhalid3019@gmail.com">
+  <a href="mailto:ahmedkhalid301967@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed"/>
   </a>
   &nbsp;
