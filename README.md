@@ -1,23 +1,12 @@
 <div align="center">
 
   <!-- Professional Datacenter & Enterprise Network Header -->
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80" alt="Enterprise Network Infrastructure" width="100%" style="border-radius: 12px; box-shadow: 0px 6px 24px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80" alt="Enterprise Network Infrastructure" width="100%" style="border-radius: 12px; box-shadow: 0px 6px 24px rgba(0,0,0); margin-bottom: 20px;" />
 
   # ⚡ AHMED KHALID SAMIR ⚡
   ### **NETWORK ENGINEER // ENTERPRISE INFRASTRUCTURE & SECURITY**
   
   <p><i>Designing, Configuring & Troubleshooting Reliable Network Infrastructure</i></p>
-
-  <p align="center">
-    <a href="#about">About</a> • 
-    <a href="#skills">Skills</a> • 
-    <a href="#topology">Topology</a> • 
-    <a href="#labs">Labs</a> • 
-    <a href="#certifications">Certifications</a> • 
-    <a href="#tools">Tools</a> • 
-    <a href="#contact">Contact</a>
-  </p>
-
   <p align="center">
     <a href="mailto:ahmedkhalid301967@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedkhalid301967%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="tel:01026764586"><img src="https://img.shields.io/badge/Phone-+20_1026764586-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
