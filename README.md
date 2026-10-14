@@ -21,7 +21,7 @@
   <p align="center">
     <a href="mailto:ahmedkhalid301967@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedkhalid301967%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="tel:01026764586"><img src="https://img.shields.io/badge/Phone-+20_1026764586-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/AhmedKhaledSamir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/ahmed-k-alid26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Status-Available_for_Enterprise_Roles-00C853?style=for-the-badge&logo=cisco&logoColor=white" />
   </p>
 
