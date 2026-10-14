@@ -1,12 +1,22 @@
 <div align="center">
 
-  <!-- Professional Banner Image -->
-  <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=80" alt="Enterprise Network Infrastructure Header" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4); margin-bottom: 25px;" />
+  <!-- Professional Datacenter & Enterprise Network Header -->
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80" alt="Enterprise Network Infrastructure" width="100%" style="border-radius: 12px; box-shadow: 0px 6px 24px rgba(0,0,0,0.5); margin-bottom: 20px;" />
 
-  <h1>⚡ AHMED KHALID SAMIR ⚡</h1>
-  <h3><b>NETWORK ENGINEER // ENTERPRISE INFRASTRUCTURE & SECURITY</b></h3>
+  # ⚡ AHMED KHALID SAMIR ⚡
+  ### **NETWORK ENGINEER // ENTERPRISE INFRASTRUCTURE & SECURITY**
   
   <p><i>Designing, Configuring & Troubleshooting Reliable Network Infrastructure</i></p>
+
+  <p align="center">
+    <a href="#about">About</a> • 
+    <a href="#skills">Skills</a> • 
+    <a href="#topology">Topology</a> • 
+    <a href="#labs">Labs</a> • 
+    <a href="#certifications">Certifications</a> • 
+    <a href="#tools">Tools</a> • 
+    <a href="#contact">Contact</a>
+  </p>
 
   <p align="center">
     <a href="mailto:ahmedkhalid301967@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedkhalid301967%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,6 +28,8 @@
 </div>
 
 ---
+
+<div id="about"></div>
 
 ## 📌 `whoami` // Background & Engineering Focus
 
@@ -31,7 +43,7 @@ I design and manage reliable campus, enterprise WAN, and datacenter networks. My
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## 📊 GitHub Performance & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhaledSamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
@@ -39,6 +51,8 @@ I design and manage reliable campus, enterprise WAN, and datacenter networks. My
 </p>
 
 ---
+
+<div id="skills"></div>
 
 ## 🛠️ Technical Competencies & Protocol Matrix
 
@@ -71,6 +85,8 @@ I design and manage reliable campus, enterprise WAN, and datacenter networks. My
 </p>
 
 ---
+
+<div id="topology"></div>
 
 ## 📐 Enterprise Network Topology Flow
 
