@@ -142,29 +142,13 @@ My networking labs focus on translating theoretical concepts into practical conf
 
 ---
 
-## 📈 Network Engineering Activity
-
-My GitHub is where I document technical practice, maintain networking projects, and track my development through hands-on work.
+GitHub Overview
 
 <div align="center">
 
-  <a href="https://github.com/ahmed-k26?tab=repositories">
-    <img src="https://img.shields.io/badge/NETWORK%20LABS-Explore%20Repositories-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Labs"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_rank=true&hide_title=false&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub Project and Contribution Statistics" width="75%"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-k26&bg_color=0D1117&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Engineering%20Activity" alt="GitHub Engineering Activity Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" height="145" alt="GitHub statistics" />
 
 </div>
-
-**What matters most:** the quality of my network labs, clear configuration documentation, troubleshooting methodology, and the ability to explain the technical decisions behind each solution.
-
----
 
 ## 🎓 Certification Path
 
