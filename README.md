@@ -142,14 +142,21 @@ My networking labs focus on translating theoretical concepts into practical conf
 
 ---
 
-GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" height="145" alt="GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
+    height="170"
+    alt="Ahmed Khalid's GitHub Statistics"
+  />
+
+  <br/>
+
+  <sub>Consistent learning. Practical work. Continuous improvement.</sub>
 
 </div>
-
 ## 🎓 Certification Path
 
 My professional development is focused on networking certifications and practical engineering skills.
