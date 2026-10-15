@@ -158,13 +158,15 @@ My practical work focuses on applying networking concepts to simulated topologie
 
 <div align="center">
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed-k26
+&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages"/>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ahmed-k26
+&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub Contribution Streak"/>
 
 </div>
 
