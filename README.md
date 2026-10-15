@@ -174,7 +174,7 @@ My practical work focuses on applying networking concepts to simulated topologie
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/ahmed-k-alid26">
+  <a href="https://linkedin.com/in/ahmed-k26">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   &nbsp;
