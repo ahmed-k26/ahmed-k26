@@ -13,7 +13,7 @@
   
   <br/><br/>
   
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ahmed-k26">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/ahmed-k-alid26">
