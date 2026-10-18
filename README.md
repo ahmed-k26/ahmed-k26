@@ -157,26 +157,37 @@ My networking labs focus on translating theoretical concepts into practical conf
   <sub>Consistent learning. Practical work. Continuous improvement.</sub>
 
 </div>
-## 🎓 Certifications & Professional Development
+🎓 Certifications & Professional Development
 
 My networking journey includes structured training through Cisco Networking Academy and continuous development of practical networking skills.
 
-### 🏅 Cisco Networking Academy (NetAcad)
+🏅 Cisco Networking Academy (NetAcad)
 
-- **CCNA Course Training** — Completed coursework through Cisco Networking Academy.
-- **Cisco Networking Academy Certificates** — Three certificates earned through completed learning programs.
-- **Technical Focus:** Networking fundamentals, IP connectivity, routing and switching, and network infrastructure.
+CCNA Course Training — Completed CCNA coursework through Cisco Networking Academy.
 
-### 📜 Verified Credentials
+CCNP Course Training — Completed CCNP coursework .
 
-View my certificates, demonstrated skills, and professional learning achievements on Credly.
+Cisco Networking Academy Certificates — Earned three certificates through Cisco Networking Academy learning programs.
 
-\<div align="center">
+Technical Focus: Networking fundamentals, IP addressing, routing and switching, and enterprise network infrastructure.
 
-&#x20; \<a href="https://www.credly.com/users/ahmed-k">  \<img src="[https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)" alt="View my Credly credentials"/>   \</a>
+📜 Verified Credentials
 
-\</div>
+View my earned certificates, demonstrated skills, and learning achievements on Credly.
 
+<div align="center">
+  <a href="https://www.credly.com/users/ahmed-k">
+    <img src="https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View my Credly credentials"/>
+  </a>
+</div>
+
+🚀 Future Learning Goals
+
+Official CCNA Certification — Prepare for and pursue the official Cisco CCNA certification exam.
+
+Official CCNP Certification — Work toward the relevant professional certification after meeting its requirements.
+
+Network Security — Develop practical skills in network security, access control, network hardening, and secure infrastructure design.
 ### 🚀 Future Learning Goals
 
 - **CCNA Certification:** Continue developing the knowledge and practical skills required for the CCNA certification exam.
