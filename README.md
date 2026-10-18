@@ -188,11 +188,6 @@ Official CCNA Certification — Prepare for and pursue the official Cisco CCNA c
 Official CCNP Certification — Work toward the relevant professional certification after meeting its requirements.
 
 Network Security — Develop practical skills in network security, access control, network hardening, and secure infrastructure design.
-### 🚀 Future Learning Goals
-
-- **CCNA Certification:** Continue developing the knowledge and practical skills required for the CCNA certification exam.
-- **CCNP Enterprise:** Progress toward advanced enterprise networking.
-- **Network Security:** Develop skills in secure network architecture, access control, and network hardening.أنا عاوزك تضيف أيضًا إن أنا واخد كورس CCNB، درسه يعني، مش إن أنا حطه في الـfuture learning. فمقصدي اللي أنا ممكن أضيفه في الـfuture learning هو الـnetwork security والشهادات الرسمية.
 
 ## 🎯 Professional Goals
 
