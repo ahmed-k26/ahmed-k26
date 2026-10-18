@@ -165,7 +165,7 @@ My networking journey includes structured training through Cisco Networking Acad
 
 CCNA Course Training — Completed CCNA coursework through Cisco Networking Academy.
 
-CCNP Course Training — Completed CCNP coursework .
+CCNP Course Training — Completed CCNP coursework through Cisco Networking Academy .
 
 Cisco Networking Academy Certificates — Earned three certificates through Cisco Networking Academy learning programs.
 
