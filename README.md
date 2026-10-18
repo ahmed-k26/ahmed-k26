@@ -157,21 +157,31 @@ My networking labs focus on translating theoretical concepts into practical conf
   <sub>Consistent learning. Practical work. Continuous improvement.</sub>
 
 </div>
-## 🎓 Certification Path
+## 🎓 Certifications & Professional Development
 
-My professional development is focused on networking certifications and practical engineering skills.
+My networking journey includes structured training through Cisco Networking Academy and continuous development of practical networking skills.
 
-| Certification | Focus |
-|---|---|
-| **CCNA** | Networking fundamentals, IP connectivity, network access, and security fundamentals |
-| **CCNP Enterprise** | Advanced enterprise routing, infrastructure, and troubleshooting |
-| **Network Security** | Secure network architecture, access control, and network hardening |
+### 🏅 Cisco Networking Academy (NetAcad)
 
-I aim to support certification preparation with hands-on labs, configuration practice, and technical documentation.
+- **CCNA Course Training** — Completed coursework through Cisco Networking Academy.
+- **Cisco Networking Academy Certificates** — Three certificates earned through completed learning programs.
+- **Technical Focus:** Networking fundamentals, IP connectivity, routing and switching, and network infrastructure.
 
-*Certification achievements will be listed here once earned.*
+### 📜 Verified Credentials
 
----
+View my certificates, demonstrated skills, and professional learning achievements on Credly.
+
+\<div align="center">
+
+&#x20; \<a href="https://www.credly.com/users/ahmed-k">  \<img src="[https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)" alt="View my Credly credentials"/>   \</a>
+
+\</div>
+
+### 🚀 Future Learning Goals
+
+- **CCNA Certification:** Continue developing the knowledge and practical skills required for the CCNA certification exam.
+- **CCNP Enterprise:** Progress toward advanced enterprise networking.
+- **Network Security:** Develop skills in secure network architecture, access control, and network hardening.أنا عاوزك تضيف أيضًا إن أنا واخد كورس CCNB، درسه يعني، مش إن أنا حطه في الـfuture learning. فمقصدي اللي أنا ممكن أضيفه في الـfuture learning هو الـnetwork security والشهادات الرسمية.
 
 ## 🎯 Professional Goals
 
