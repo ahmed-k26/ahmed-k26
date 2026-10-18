@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ahmed Khalid, an Information Technology student at Mansoura University, focused on Network Engineering, enterprise infrastructure, and Network Security.
+I'm Ahmed Khalid, an Information Technology graduate from the Faculty of Computers and Information Science at Mansoura University, focused on Network Engineering, enterprise infrastructure, and Network Security.
 
 My interests include network architecture, routing and switching, IP addressing, network services, infrastructure troubleshooting, and secure network design.
 
@@ -38,7 +38,7 @@ I believe in learning networking through practical implementation, understanding
 - 🧪 **Hands-on Labs:** Network simulation, configuration, testing, and troubleshooting.
 
 🎓 **Education:** Information Technology — Faculty of Computers and Information, Mansoura University  
-📅 **Expected Graduation:** Class of 2027
+📅 **Graduation:** Class of 2027
 
 **Career Direction:** Network Engineering → Network Security Engineering
 
