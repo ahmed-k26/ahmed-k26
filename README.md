@@ -37,7 +37,7 @@ I believe in learning networking through practical implementation, understanding
 - ⚙️ **Network Services:** DHCP, DNS, NAT, and DHCP relay.
 - 🧪 **Hands-on Labs:** Network simulation, configuration, testing, and troubleshooting.
 
-🎓 **Education:** Information Technology — Faculty of Computers and Information, Mansoura University  
+🎓 **Education:** Information Technology — Faculty of Computers and Information Science, Mansoura University  
 📅 **Graduation:** Class of 2027
 
 **Career Direction:** Network Engineering → Network Security Engineering
