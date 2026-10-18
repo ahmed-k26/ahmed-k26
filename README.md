@@ -1,367 +1,241 @@
+<!-- ==================== ANIMATED HEADER ==================== -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:06B6D4&height=220&section=header&text=Ahmed%20Khalid&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20ENGINEERING%20%7C%20NETWORK%20SECURITY&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Ahmed Khalid - Network Engineering"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=06B6D4" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Network+%26+Network+Security+Engineering;Routing+%26+Switching;Enterprise+Network+Infrastructure;Designing+Reliable+%26+Secure+Networks" alt="Animated introduction"/>
 
-<br/>
+  <br/><br/>
 
-# AHMED KHALID
+  <img src="https://img.shields.io/badge/FOCUS-NETWORK%20ENGINEERING-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/>
+  <img src="https://img.shields.io/badge/INTEREST-NETWORK%20SECURITY-0891B2?style=for-the-badge&logo=shield&logoColor=white" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/CLASS%20OF-2027-164E63?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Class of 2027"/>
 
-### NETWORK ENGINEERING · NETWORK SECURITY
+  <br/><br/>
 
-**Information Technology Student | Mansoura University**
-
-<br/>
-
-<a href="https://github.com/ahmed-k26">
-<img src="https://img.shields.io/badge/GITHUB-101828?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://linkedin.com/in/ahmed-k-alid26">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-<a href="https://www.credly.com/users/ahmed-k">
-<img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/01-NETWORKING-0E7490?style=flat-square" />
-<img src="https://img.shields.io/badge/02-ROUTING%20%26%20SWITCHING-1D4ED8?style=flat-square" />
-<img src="https://img.shields.io/badge/03-NETWORK%20SECURITY-0F766E?style=flat-square" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=164E63" />
-
+  <a href="https://github.com/ahmed-k26">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmed-k-alid26">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
-## 01 / PROFILE
+---
 
-<table>
-<tr>
-<td width="68%" valign="top">
+## 👨‍💻 About Me
 
-### About Me
+I'm Ahmed Khalid, an Information Technology student at Mansoura University, focused on Network Engineering, enterprise infrastructure, and Network Security.
 
-I am an Information Technology student at Mansoura University focused on Network Engineering, enterprise infrastructure, and Network Security.
+My interests include network architecture, routing and switching, IP addressing, network services, infrastructure troubleshooting, and secure network design.
 
-I have completed CCNA and CCNP coursework through Cisco Networking Academy and continue to develop my knowledge through practical networking labs, configuration, and troubleshooting.
+I believe in learning networking through practical implementation, understanding why configurations work, and documenting solutions to real networking problems.
 
-My goal is to build reliable enterprise networks and progress toward Network Security Engineering.
+- 🌐 **Network Infrastructure:** LAN design, IP addressing, and network connectivity.
+- 🔀 **Routing & Switching:** Static routing, VLANs, trunking, and inter-VLAN routing.
+- 🛡️ **Network Security:** Access control, network segmentation, and security fundamentals.
+- ⚙️ **Network Services:** DHCP, DNS, NAT, and DHCP relay.
+- 🧪 **Hands-on Labs:** Network simulation, configuration, testing, and troubleshooting.
 
-</td>
-<td width="32%" valign="top" bgcolor="#0D1B2A">
+🎓 **Education:** Information Technology — Faculty of Computers and Information, Mansoura University  
+📅 **Expected Graduation:** Class of 2027
 
-### PROFILE
-
-**Field**  
-Network Engineering
-
-**Education**  
-Information Technology
-
-**University**  
-Mansoura University
-
-**Graduation**  
-2027
-
-**Direction**  
-Network Security
-
-</td>
-</tr>
-</table>
+**Career Direction:** Network Engineering → Network Security Engineering
 
 ---
 
-## 02 / TECHNICAL EXPERTISE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NETWORKING
-
-- TCP/IP & OSI Model
-- IPv4 Addressing
-- Subnetting
-- Network Topologies
-- IP Connectivity
-
-</td>
-<td width="50%" valign="top">
-
-### ROUTING & SWITCHING
-
-- Static Routing
-- VLANs & Trunking
-- Inter-VLAN Routing
-- Routing Protocols
-- Default Routes
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### NETWORK SERVICES
-
-- DHCP & DNS
-- NAT/PAT Fundamentals
-- DHCP Relay Concepts
-- Network Addressing
-
-</td>
-<td width="50%" valign="top">
-
-### SECURITY & TROUBLESHOOTING
-
-- ACL Fundamentals
-- Network Segmentation
-- Ping & Traceroute
-- Routing Table Analysis
-- Configuration Validation
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / TOOLS & TECHNOLOGIES
+## ⚡ Core Technical Skills
 
 <div align="center">
 
-<a href="https://www.netacad.com/">
-<img src="https://img.shields.io/badge/Cisco_Networking_Academy-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
-<a href="https://www.netacad.com/cisco-packet-tracer">
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-087EA4?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
-<a href="https://www.wireshark.org/">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</a>
-<a href="https://github.com/ahmed-k26">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+| 🌐 Networking | 🔀 Routing & Switching | 🛡️ Network Security |
+|:---:|:---:|:---:|
+| TCP/IP & OSI Model | Static Routing | ACL Fundamentals |
+| IPv4 & Subnetting | VLANs & Trunking | Network Segmentation |
+| Network Topologies | Inter-VLAN Routing | Secure Network Design |
+| IP Connectivity | Routing Protocols | Access Control |
+
+| ⚙️ Network Services | 🔍 Troubleshooting |
+|:---:|:---:|
+| DHCP & DNS | Connectivity Diagnostics |
+| NAT/PAT Fundamentals | Routing Table Analysis |
+| Default Routes | Ping & Traceroute |
+| DHCP Relay Concepts | Configuration Validation |
 
 </div>
 
 ---
 
-## 04 / PRACTICAL NETWORK LABS
+## 🛠️ Networking Tools
 
 <div align="center">
 
-*DESIGN  /  CONFIGURE  /  TEST  /  TROUBLESHOOT*
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 
 </div>
 
+---
+
+## 🧪 Network Labs & Practical Projects
+
+**Plan. Configure. Test. Troubleshoot. Document.**
+
+My networking labs focus on translating theoretical concepts into practical configurations and understanding how network components communicate in simulated environments.
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. Network Topology Design
-
-Designing LAN topologies and connecting network devices.
-
-`ROUTERS` `SWITCHES` `IP ADDRESSING`
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Routing & Switching
-
-Configuring routes and communication between different subnets.
-
-`STATIC ROUTING` `VLANs` `TRUNKING`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. DHCP Across Networks
-
-Studying IP address allocation across routed networks.
-
-`DHCP` `DHCP RELAY` `ROUTING`
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Network Troubleshooting
-
-Analyzing connectivity issues and validating configurations.
-
-`PING` `TRACEROUTE` `ROUTING TABLES`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05. Access Control
-
-Exploring traffic filtering and controlled communication.
-
-`ACLs` `SEGMENTATION` `ACCESS CONTROL`
-
-</td>
-<td width="50%" valign="top">
-
-### 06. Routing Protocols
-
-Practicing route selection and routing protocol concepts.
-
-`OSPF FUNDAMENTALS` `ROUTE SELECTION`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Network Topology Design</h3>
+      Designing LAN topologies and connecting network devices.
+      <br/><br/>
+      <b>Technical Focus:</b> Routers, switches, IP addressing, topology design
+    </td>
+    <td width="50%">
+      <h3>🔀 Routing & Switching</h3>
+      Configuring network paths and communication between different subnets.
+      <br/><br/>
+      <b>Technical Focus:</b> Static routes, VLANs, trunking, inter-VLAN routing
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📡 DHCP Across Networks</h3>
+      Exploring centralized IP address allocation for clients on remote LANs.
+      <br/><br/>
+      <b>Technical Focus:</b> DHCP, DHCP relay, routing
+    </td>
+    <td width="50%">
+      <h3>🔍 Network Troubleshooting</h3>
+      Investigating connectivity failures and validating network configurations.
+      <br/><br/>
+      <b>Technical Focus:</b> Ping, routing tables, configuration analysis
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Access Control & Security</h3>
+      Exploring traffic filtering and controlled communication between networks.
+      <br/><br/>
+      <b>Technical Focus:</b> ACLs, network segmentation, security fundamentals
+    </td>
+    <td width="50%">
+      <h3>🗺️ Routing Protocol Labs</h3>
+      Practicing routing concepts and analyzing route selection.
+      <br/><br/>
+      <b>Technical Focus:</b> Routing tables, OSPF fundamentals, route selection
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-
-<a href="https://github.com/ahmed-k26?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_NETWORK_PROJECTS-0B1F33?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
-
+  <br/>
+  <a href="https://github.com/ahmed-k26?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20NETWORK%20LABS-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Network Labs"/>
+  </a>
 </div>
 
-> These topics represent my practical learning areas. Explore my repositories for available project files and completed lab documentation.
+> These sections describe my practical focus. Visit my repositories for the actual lab files, completed configurations, and project documentation.
 
 ---
 
-## 05 / CERTIFICATIONS & TRAINING
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### CCNA
-
-**Cisco Networking Academy**
-
-Completed CCNA coursework.
-
-**Knowledge Areas**
-
-- Networking Fundamentals
-- IPv4 & Subnetting
-- Routing & Switching
-- VLANs & Connectivity
-
-</td>
-<td width="50%" valign="top">
-
-### CCNP
-
-**Cisco Networking Academy**
-
-Completed CCNP coursework.
-
-**Knowledge Areas**
-
-- Enterprise Networking Concepts
-- Routing Protocols
-- Advanced Routing Concepts
-- Network Troubleshooting
-
-</td>
-</tr>
-</table>
+## GitHub Overview
 
 <div align="center">
 
-### VERIFIED CREDENTIALS
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
+    height="170"
+    alt="Ahmed Khalid's GitHub Statistics"
+  />
 
-View my earned Cisco Networking Academy certificates and skills.
+  <br/>
 
-<a href="https://www.credly.com/users/ahmed-k">
-<img src="https://img.shields.io/badge/OPEN_MY_CREDLY_PROFILE-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-</a>
+  <sub>Consistent learning. Practical work. Continuous improvement.</sub>
 
 </div>
+🎓 Certifications & Professional Development
 
-<sub>Course completion does not imply that the corresponding official CCNA or CCNP certification exam has been passed. Official certifications will be listed when earned.</sub>
+My networking journey includes structured training through Cisco Networking Academy and continuous development of practical networking skills.
+
+🏅 Cisco Networking Academy (NetAcad)
+
+CCNA Course Training — Completed CCNA coursework through Cisco Networking Academy.
+
+CCNP Course Training — Completed CCNP coursework .
+
+Cisco Networking Academy Certificates — Earned three certificates through Cisco Networking Academy learning programs.
+
+Technical Focus: Networking fundamentals, IP addressing, routing and switching, and enterprise network infrastructure.
+
+📜 Verified Credentials
+
+View my earned certificates, demonstrated skills, and learning achievements on Credly.
+
+<div align="center">
+  <a href="https://www.credly.com/users/ahmed-k">
+    <img src="https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View my Credly credentials"/>
+  </a>
+</div>
+
+🚀 Future Learning Goals
+
+Official CCNA Certification — Prepare for and pursue the official Cisco CCNA certification exam.
+
+Official CCNP Certification — Work toward the relevant professional certification after meeting its requirements.
+
+Network Security — Develop practical skills in network security, access control, network hardening, and secure infrastructure design.
+
+## 🎯 Professional Goals
+
+- Build a strong foundation in enterprise network engineering.
+- Develop practical routing and switching configuration skills.
+- Improve network troubleshooting and packet analysis capabilities.
+- Apply network security principles to infrastructure design.
+- Document practical labs in a clear, reproducible format.
+- Progress toward advanced networking and network security roles.
 
 ---
 
-## 06 / PROFESSIONAL DEVELOPMENT
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 01
-
-**Official CCNA**
-
-Prepare for and pursue the official CCNA certification.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 02
-
-**Network Security**
-
-Develop knowledge of secure architecture, access control, and network hardening.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 03
-
-**Advanced Networking**
-
-Progress toward professional-level enterprise networking certifications.
-
-</td>
-</tr>
-</table>
-
----
-
-## 07 / GITHUB
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-k26&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" height="165" alt="GitHub statistics" />
+  <a href="https://linkedin.com/in/ahmed-k-alid26">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
 
-<br/><br/>
+  <a href="mailto:ahmedkhalid301967@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-k26&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&text_color=E2E8F0" height="135" alt="Most used languages" />
+  <a href="https://github.com/ahmed-k26">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
 
 ---
 
-## 08 / CONNECT
-
 <div align="center">
 
-**Interested in networking, infrastructure, and network security.**
+  <h3>🌐 Design. Connect. Secure.</h3>
 
-<br/>
+  <i>Building stronger foundations for a more secure and connected world.</i>
 
-<a href="https://github.com/ahmed-k26">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/ahmed-k-alid26">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:ahmedkhalid301967@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://www.credly.com/users/ahmed-k">Credly</a>
+  <br/><br/>
 
-<br/><br/>
+  <b>Learn. Configure. Troubleshoot. Secure.</b>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=06B6D4" />
+  <br/><br/>
 
-<br/>
+  <i>Outside the herd.</i>
 
-**DESIGN. CONNECT. SECURE.**
+  <br/><br/>
 
-<sub>Learn continuously. Configure precisely. Troubleshoot methodically.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:0F172A&height=110&section=footer" width="100%" alt="Animated footer"/>
 
-</div>
+</div> 
